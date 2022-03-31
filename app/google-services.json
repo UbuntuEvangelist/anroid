@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "748941770452",
+    "project_id": "callmyway-79f41",
+    "storage_bucket": "callmyway-79f41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748941770452:android:64bb384c910bdeb3950541",
+        "android_client_info": {
+          "package_name": "org.callmyway"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "748941770452-f5q4of7j96p58th3pd9jp9mmro4s62vt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3IxkGP0FfTAWXc7eYH5u5WkmnIb97r2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "748941770452-f5q4of7j96p58th3pd9jp9mmro4s62vt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748941770452:android:b942fed09fb0d067950541",
+        "android_client_info": {
+          "package_name": "org.callmyway.debug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "748941770452-f5q4of7j96p58th3pd9jp9mmro4s62vt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3IxkGP0FfTAWXc7eYH5u5WkmnIb97r2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "748941770452-f5q4of7j96p58th3pd9jp9mmro4s62vt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
