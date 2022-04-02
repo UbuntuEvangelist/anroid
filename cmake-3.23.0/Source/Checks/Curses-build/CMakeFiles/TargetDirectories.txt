@@ -1,0 +1,2 @@
+/root/anroid/cmake-3.23.0/Source/Checks/Curses-build/CMakeFiles/edit_cache.dir
+/root/anroid/cmake-3.23.0/Source/Checks/Curses-build/CMakeFiles/rebuild_cache.dir

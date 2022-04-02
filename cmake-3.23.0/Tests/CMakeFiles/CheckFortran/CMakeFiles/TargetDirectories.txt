@@ -1,0 +1,2 @@
+/root/anroid/cmake-3.23.0/Tests/CMakeFiles/CheckFortran/CMakeFiles/edit_cache.dir
+/root/anroid/cmake-3.23.0/Tests/CMakeFiles/CheckFortran/CMakeFiles/rebuild_cache.dir
